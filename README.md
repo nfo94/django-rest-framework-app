@@ -8,7 +8,7 @@ To run the application:
 docker compose up --build -d
 ```
 
-Then check http://localhost:8000.
+Then check http://localhost:8000/docs to see the documentation of this API.
 
 To run tests:
 
